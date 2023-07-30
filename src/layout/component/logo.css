@@ -1,0 +1,22 @@
+
+.DivOfLogo{
+   
+    display: flex;
+    align-items: center;
+    
+}
+h3{
+    font-variant-caps: all-petite-caps;
+    background:-webkit-linear-gradient(right, rgb(211, 195, 208), rgb(141, 185, 180));
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+}
+.logo{
+    border: #fff8dc;
+}
+.logo:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+    }

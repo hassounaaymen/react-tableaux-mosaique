@@ -1,0 +1,28 @@
+.DivOfDefinition{
+    display: flex;
+    width: auto;
+    height: 70vh;
+    background-color: rgb(24 1 1 / 91%);
+}
+.Definition{
+    width: 50%;
+    height: 68vh;
+    padding-top: 10%;
+    padding-left: 5%;
+    
+}
+.DivofImg{
+    width: 50%;
+    height:30vh;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.BlockSize{
+   max-block-size: 270%;
+}
+p{
+    font-family: monospace;
+    color: antiquewhite;
+    font-style: oblique;
+    font-size: x-large;
+}

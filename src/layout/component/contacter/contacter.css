@@ -1,0 +1,56 @@
+.DivOfContacter{
+    width: 100%;
+    height: 100vh;
+    box-shadow: 4px 11px 16px 5px rgba(0, 0, 0, 0.479);
+    margin-top: 10%;
+}
+.buttonofC{
+    color: rgb(241, 241, 247);
+     border-radius: 6px; background-color: #1b9941; width: 150%;
+    cursor: pointer;
+
+ }
+ input{
+    border-left: hidden;
+    border-top: hidden;
+    border-right: hidden;
+
+ }
+ textarea{
+    border-left: hidden;
+    border-top: hidden;
+    border-right: hidden;
+
+
+ }
+.formOfInput{
+    display: inline-grid;
+    justify-items: start;
+    margin-block-end: 1%;
+}
+.DivOfContactBlock1{
+    height: 70vh;
+    display: grid;
+    justify-items: start;
+    width: 60%;
+    border-right-style: inset;
+}
+.imgdiv{
+    width: 40%;
+    height: 70vh;
+    background-color: #daebeb;
+
+}
+
+.p {
+    color: black;
+    font-family: monospace;
+    font-style: oblique;
+    font-size: larger;
+}
+h6{
+    color: #1eaf7f5b;
+    font-size: xx-large;
+    font-family: fantasy;
+    font-style: initial;
+}

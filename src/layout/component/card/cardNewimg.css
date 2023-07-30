@@ -1,0 +1,14 @@
+
+  .imageCardnew{
+    border-radius: 25px;
+    box-shadow: 6px 7px 20px 0px rgb(0 0 0 / 34%);
+    cursor: pointer;
+    
+
+  }
+  .imageCardnew:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.2);
+    }
+ 
